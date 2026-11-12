@@ -7,7 +7,7 @@ A Python tool that matches bank statements with invoices using pandas
 - detects partial payments 
 - detects duplicate payments
 - flags unmatched bank transactions 
-- lits unpaid invoices
+- lists unpaid invoices
 
 ## how ro run 
 py reconciliation.py
