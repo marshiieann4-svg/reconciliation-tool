@@ -1,0 +1,5 @@
+Date,Reference,Amount,Description
+2026-11-01,INV001,1150.00,Payment from Client A
+2026-11-02,INV002,500.00,Partial payment Client B
+2026-11-03,INV001,1150.00,Duplicate payment Client A
+2026-11-04,INV004,750.00,Payment no invoice

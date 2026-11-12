@@ -1,0 +1,4 @@
+Reference,Client,Amount,DueDate 
+INV001,Client A,1150.00,2026-11-01
+INV002,Client B,1150.00,2026-11-05
+INV003,Client C,900.00,2026-11-10
